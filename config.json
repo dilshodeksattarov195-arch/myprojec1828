@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsconnect",
+        "uuid": 2111340,
+        "checksum": "lznzsq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
